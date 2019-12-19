@@ -1,0 +1,13 @@
+\babel@toc {russian}{}
+\contentsline {section}{\numberline {1}Prefix-функция}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Описание}{2}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Пример расчета prefix-функции для строки}{2}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Тривиальный алгоритм}{2}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}Оптимальный алгоритм}{3}{subsection.1.4}%
+\contentsline {section}{\numberline {2}Z-функция}{4}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Описание}{4}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Пример расчета Z-функции для строки}{4}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Тривиальный алгоритм}{5}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Оптимальный алгоритм}{5}{subsection.2.4}%
+\contentsline {section}{\numberline {3}Алгоритм Кнута-Морриса-Пратта (КМП)}{6}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Описание алгоритма}{6}{subsection.3.1}%
